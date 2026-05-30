@@ -1,0 +1,12 @@
+names:
+- AMBULANCE
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ambulance-detection-u4ao4-76laq
+  url: https://app.roboflow.com/ai-traffic-ambulance-detection/ambulance-detection-u4ao4-76laq/1
+  version: 1
+  workspace: ai-traffic-ambulance-detection
+test: ../test/images
+train: ../train/images
+val: ../valid/images

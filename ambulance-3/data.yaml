@@ -1,0 +1,12 @@
+names:
+- ambulance
+nc: 1
+roboflow:
+  license: Private
+  project: ambulance-jr09u
+  url: https://app.roboflow.com/ai-traffic-ambulance-detection/ambulance-jr09u/3
+  version: 3
+  workspace: ai-traffic-ambulance-detection
+test: ../test/images
+train: ../train/images
+val: ../valid/images
